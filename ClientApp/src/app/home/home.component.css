@@ -1,0 +1,12 @@
+.text-input {
+    width: 70%;
+}
+
+.scan-btn {
+    margin-left: 5px;
+    background-color: rgb(86, 86, 159);
+}
+
+.scan-result-container {
+    margin-top: 20px;;
+}
